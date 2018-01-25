@@ -24,7 +24,13 @@
 
 :ballot_box_with_check: [Error Models of the Analog to Digital Converters][paper](http://www.measurement.sk/2014/Michaeli.pdf)(MSR2014)
 
-:ballot_box_with_check: ​[Volterra Series-Based Time-Domain Macromodeling of Nonlinear Circuits][paper](http://ieeexplore.ieee.org/document/7763759/)(TCPMT2017)
+:ballot_box_with_check: [Volterra Series-Based Time-Domain Macromodeling of Nonlinear Circuits][paper](http://ieeexplore.ieee.org/document/7763759/)(TCPMT2017)
+
+## Machine Learning in Physical Layer
+
+:ballot_box_with_check: [Channel estimation for LTE Uplink system by Perceptron neural network][paper](https://www.researchgate.net/publication/45937461_Channel_estimation_for_LTE_Uplink_system_by_Perceptron_neural_network)(IJWMN2010)
+
+:ballot_box_with_check: [Using Recurrent Neural Networks for Adaptive Communication Channel Equalization][paper](http://ieeexplore.ieee.org/document/279190/)(TNN1994)
 
 ## Reference
 
