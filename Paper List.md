@@ -32,6 +32,18 @@
 
 :ballot_box_with_check: [Using Recurrent Neural Networks for Adaptive Communication Channel Equalization][paper](http://ieeexplore.ieee.org/document/279190/)(TNN1994)
 
+## Natural Language Processing
+
+:ballot_box_with_check: [Distribution representation of words and phrases and their compositionality][paper](https://arxiv.org/abs/1310.4546)(NIPS2013)
+
+## Other Papers
+
+☑️ [Information and estimation in Fokker-Planck channels][paper](https://arxiv.org/abs/1702.03656)(ISIT2017)
+
+☑️ [Information-theoretic analysis of generalization capability of learning algorithms][paper](https://arxiv.org/abs/1705.07809)(NIPS2017)
+
+
+
 ## Reference
 
 [1] Markdown emoji markup: https://gist.github.com/rxaviers/7360908
