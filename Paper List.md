@@ -36,6 +36,10 @@
 
 :ballot_box_with_check: [Distribution representation of words and phrases and their compositionality][paper](https://arxiv.org/abs/1310.4546)(NIPS2013)
 
+## Generative Adversial Networks
+
+:ballot_box_with_check: [NIPS 2016 Tutorial: Generative Adversarial Networks][paper](https://arxiv.org/abs/1701.00160)(NIPS2016)
+
 ## Other Papers
 
 ☑️ [Information and estimation in Fokker-Planck channels][paper](https://arxiv.org/abs/1702.03656)(ISIT2017)
