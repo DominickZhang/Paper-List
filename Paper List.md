@@ -46,6 +46,8 @@
 
 ☑️ [Information-theoretic analysis of generalization capability of learning algorithms][paper](https://arxiv.org/abs/1705.07809)(NIPS2017)
 
+:ballot_box_with_check: [Smoothing and Differentiation of Data by Simplified Least Squares Procedures][paper](https://pubs.acs.org/doi/abs/10.1021/ac60214a047)​(ACS1964)
+
 
 
 ## Reference
