@@ -40,15 +40,17 @@
 
 :ballot_box_with_check: [NIPS 2016 Tutorial: Generative Adversarial Networks][paper](https://arxiv.org/abs/1701.00160)(NIPS2016)
 
+:ballot_box_with_check: [PacGAN: The power of two samples in generative adversarial networks][paper](https://arxiv.org/pdf/1712.04086)(arXiv2017)
+
 ## Other Papers
 
 ☑️ [Information and estimation in Fokker-Planck channels][paper](https://arxiv.org/abs/1702.03656)(ISIT2017)
 
 ☑️ [Information-theoretic analysis of generalization capability of learning algorithms][paper](https://arxiv.org/abs/1705.07809)(NIPS2017)
 
-:ballot_box_with_check: [Smoothing and Differentiation of Data by Simplified Least Squares Procedures][paper](https://pubs.acs.org/doi/abs/10.1021/ac60214a047)​(ACS1964)
+:ballot_box_with_check: [Smoothing and Differentiation of Data by Simplified Least Squares Procedures][paper](https://pubs.acs.org/doi/abs/10.1021/ac60214a047)(ACS1964)
 
-
+:ballot_box_with_check: [Prediction-Constrained Training for Semi-Supervised Mixture and Topic Models][paper](https://arxiv.org/abs/1707.07341)(arXiv2017)
 
 ## Reference
 
