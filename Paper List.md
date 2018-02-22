@@ -36,6 +36,16 @@
 
 :ballot_box_with_check: [Distribution representation of words and phrases and their compositionality][paper](https://arxiv.org/abs/1310.4546)(NIPS2013)
 
+:ballot_box_with_check: [Enriching Word Vectors with Subword Information][paper](https://arxiv.org/abs/1607.04606)(TACL2017)
+
+:ballot_box_with_check: [GloVe: Global vectors for word representation][paper](https://nlp.stanford.edu/pubs/glove.pdf)(EMNLP2014)
+
+:ballot_box_with_check: [Sequence to Sequence Learning with Neural Networks][paper](https://arxiv.org/abs/1409.3215)(NIPS2014)
+
+:ballot_box_with_check: [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation][paper](https://arxiv.org/abs/1406.1078)(EMNLP2014)
+
+:ballot_box_with_check: [Neural Machine Translation by Jointly Learning to Align and Translate]​[paper](https://arxiv.org/abs/1409.0473)(ICLR2015)
+
 ## Generative Adversial Networks
 
 :ballot_box_with_check: [NIPS 2016 Tutorial: Generative Adversarial Networks][paper](https://arxiv.org/abs/1701.00160)(NIPS2016)
