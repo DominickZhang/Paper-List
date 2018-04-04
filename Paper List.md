@@ -44,13 +44,21 @@
 
 :ballot_box_with_check: [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation][paper](https://arxiv.org/abs/1406.1078)(EMNLP2014)
 
-:ballot_box_with_check: [Neural Machine Translation by Jointly Learning to Align and Translate]​[paper](https://arxiv.org/abs/1409.0473)(ICLR2015)
+:ballot_box_with_check: [Neural Machine Translation by Jointly Learning to Align and Translate][paper](https://arxiv.org/abs/1409.0473)(ICLR2015)
 
 ## Generative Adversial Networks
 
 :ballot_box_with_check: [NIPS 2016 Tutorial: Generative Adversarial Networks][paper](https://arxiv.org/abs/1701.00160)(NIPS2016)
 
 :ballot_box_with_check: [PacGAN: The power of two samples in generative adversarial networks][paper](https://arxiv.org/pdf/1712.04086)(arXiv2017)
+
+## Artificial Intelligence In Healthcare
+
+:ballot_box_with_check: [RETAIN: An Interpretable Predictive Model for Healthcare using Reverse Time Attention Mechanism][paper](https://arxiv.org/abs/1608.05745)(NIPS2016)
+
+## Robustness Analysis
+
+:ballot_box_with_check: [Robustness of classifiers: from adversarial to random noise][paper](https://arxiv.org/abs/1608.08967)(NIPS2016)
 
 ## Other Papers
 
