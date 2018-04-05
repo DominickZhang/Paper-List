@@ -54,7 +54,7 @@
 
 ## Artificial Intelligence In Healthcare
 
-:ballot_box_with_check: [RETAIN: An Interpretable Predictive Model for Healthcare using Reverse Time Attention Mechanism][paper](https://arxiv.org/abs/1608.05745)(NIPS2016)
+:ballot_box_with_check: [A Survey on Deep Learning in Medical Image Analysis][paper](https://arxiv.org/pdf/1702.05747.pdf)(arXiv2017)
 
 ## Robustness Analysis
 
