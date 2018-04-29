@@ -70,6 +70,12 @@
 
 :ballot_box_with_check: [Prediction-Constrained Training for Semi-Supervised Mixture and Topic Models][paper](https://arxiv.org/abs/1707.07341)(arXiv2017)
 
+## Miscellaneous
+
+Torsor[blog](http://math.ucr.edu/home/baez/torsors.html)
+
+
+
 ## Reference
 
 [1] Markdown emoji markup: https://gist.github.com/rxaviers/7360908
