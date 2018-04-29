@@ -72,7 +72,7 @@
 
 ## Miscellaneous
 
-Torsor[blog](http://math.ucr.edu/home/baez/torsors.html)
+[Torsor](http://math.ucr.edu/home/baez/torsors.html)
 
 
 
