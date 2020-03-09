@@ -72,7 +72,9 @@
 
 ## Miscellaneous
 
-[Torsor](http://math.ucr.edu/home/baez/torsors.html)
+:ballot_box_with_check: [Torsor](http://math.ucr.edu/home/baez/torsors.html) (By John Baez)
+
+:ballot_box_with_check: [Lasso](http://statweb.stanford.edu/~tibs/lasso.html)
 
 
 
